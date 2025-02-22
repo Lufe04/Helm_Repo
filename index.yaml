@@ -9,6 +9,6 @@ entries:
     name: app1-chart
     type: application
     urls:
-    - https://lufe04.github.io/Helm_Repo/helm/app1-chart-0.1.0.tgz
+    - https://lufe04.github.io/Helm_Repo/app1-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2025-02-21T11:51:30.9618443-05:00"
