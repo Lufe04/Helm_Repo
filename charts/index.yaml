@@ -3,12 +3,12 @@ entries:
   app1-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-02-25T21:14:27.883414091Z"
+    created: "2025-02-25T21:22:49.308039425Z"
     description: A Helm chart for Kubernetes
-    digest: 7ddec39f8e531bd7a48b550ca6cfa3d1133acdd304c35fc35d8c3842a038778a
+    digest: 151dcb1b0d06c7c12a403cce44724a742ddbe6a95eeb5041632c69c26f3723e2
     name: app1-chart
     type: application
     urls:
     - https://github.com/Lufe04/Helm_Repo/tree/main/charts/app1-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-25T21:14:27.883033075Z"
+generated: "2025-02-25T21:22:49.307687455Z"
